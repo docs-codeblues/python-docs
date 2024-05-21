@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 # Python Language
 
-## Apa itu Python? Ringkasan bisnis plan
+## Apa itu Python?
 
 Python adalah bahasa pemrograman tingkat tinggi yang ditafsirkan, berorientasi objek, dengan semantik dinamis. Struktur data bawaan tingkat tinggi, dikombinasikan dengan pengetikan dinamis dan pengikatan dinamis, membuatnya sangat menarik untuk Pengembangan Aplikasi Cepat, serta untuk digunakan sebagai bahasa skrip atau perekat untuk menghubungkan komponen-komponen yang ada bersama-sama. Sintaks Python yang sederhana dan mudah dipelajari menekankan keterbacaan dan karenanya mengurangi biaya pemeliharaan program. Python mendukung modul dan paket, yang mendorong modularitas program dan penggunaan kembali kode. Penerjemah Python dan perpustakaan standar yang luas tersedia dalam bentuk sumber atau biner tanpa biaya untuk semua platform utama, dan dapat didistribusikan secara bebas.
 
 Seringkali, programmer jatuh cinta dengan Python karena peningkatan produktivitas yang diberikannya. Karena tidak ada langkah kompilasi, siklus edit-tes-debug berjalan sangat cepat. Men-debug program Python itu mudah: bug atau input yang buruk tidak akan menyebabkan kesalahan segmentasi. Sebaliknya, ketika penerjemah menemukan kesalahan, ia akan memunculkan pengecualian. Ketika program tidak menangkap pengecualian, penerjemah akan mencetak jejak tumpukan. Debugger tingkat sumber memungkinkan pemeriksaan variabel lokal dan global, evaluasi ekspresi arbitrer, menetapkan titik henti sementara, menelusuri kode baris demi baris, dan seterusnya. Debugger ditulis dengan Python itu sendiri, yang membuktikan kekuatan introspektif Python. Di sisi lain, seringkali cara tercepat untuk men-debug suatu program adalah dengan menambahkan beberapa pernyataan print ke sumbernya: siklus edit-tes-debug yang cepat membuat pendekatan sederhana ini menjadi sangat efektif.
-=======
+
 # Pengenalan Python
 
 _**Python**_ adalah bahasa pemrograman yang banyak digunakan dalam aplikasi web, pengembangan perangkat lunak, ilmu data, dan machine learning (ML).
@@ -64,4 +63,3 @@ puts("Hello World!")
 > Hello Wolrd!
 ```
 Ketiga contoh skrip diatas akan menghasilkan keluaran program dengan tulisan _**Hello World!**_. Python memang sangat sederhana dibandingkan bahasa yang lainnya. Tidak perlu ini dan itu untuk membuat program  _**Hello World!**_.
->>>>>>> 0308c8613167f095e77e99193664e8d7849b0a4f
